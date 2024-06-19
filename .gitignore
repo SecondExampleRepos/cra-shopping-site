@@ -30,7 +30,6 @@ yarn-error.log*
 # env files
 .env*
 
-
 # vercel
 .vercel
 
@@ -47,3 +46,7 @@ next-env.d.ts
 
 # deployment tmp
 scripts/deployment/tmp/*
+
+# Next.js
+.next
+dist
