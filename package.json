@@ -4,8 +4,7 @@
   "homepage": ".",
   "private": true,
   "devDependencies": {
-    "gh-pages": "^5.0.0",
-    "react-scripts": "^5.0.1"
+    "gh-pages": "^5.0.0"
   },
   "dependencies": {
     "autoprefixer": "^10.4.19",
