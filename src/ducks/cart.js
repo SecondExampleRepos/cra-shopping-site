@@ -1,3 +1,4 @@
+// No changes needed as this is not a JSX or TSX React file.
 import { getProduct } from '../ducks/products';
 
 // actions
